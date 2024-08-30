@@ -15,7 +15,7 @@ downloadDir = "./virus_vorsicht/"
 BEPINEX = "https://thunderstore.io/package/download/BepInEx/BepInExPack/5.4.2100/"
 
 #Lethal Company
-MORE_COMPANY = "https://thunderstore.io/package/download/notnotnotswipez/MoreCompany/1.9.4/" #https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+MORE_COMPANY = "https://thunderstore.io/package/download/notnotnotswipez/MoreCompany/1.10.1/" #https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
 MORE_SUITS = "https://thunderstore.io/package/download/x753/More_Suits/1.4.3/" #https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
 MORE_EMOTES = "https://thunderstore.io/package/download/Sligili/More_Emotes/1.3.3/" #https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
 OZONE_RUNTIME = "https://thunderstore.io/package/download/Ozone/Runtime_Netcode_Patcher/0.2.5/" #https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
